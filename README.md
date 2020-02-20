@@ -14,6 +14,8 @@ Observations from the project include, but not limited to, the following:
 2- When it comes to gender, males tend to be younger than females in the dataset. 
 3- Offer number 7, which is a discount with middle difficulity and can be found in all channels, is receiving the highest views and completion rates.
 4- A machine learning model showed that income and age are the biggest contributer to whether someone will complete an offer after receiving it or not. 
+More discussion and details are available in this article: 
+https://medium.com/@abdulsalamalali/starbucks-reward-program-analysis-e3142d6d167a
 
 
 ## Files
